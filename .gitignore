@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 .data/*.csv
+=======
+# Ignore data folder
+data/*.txt
+
+# Ignore Python virtual environment
+.venv/
+>>>>>>> task-1
